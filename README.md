@@ -23,7 +23,7 @@ sudo apt install wget -y
 ## Installation
 To configure and install BSC Node please run:
 ```
-sudo wget https://raw.githubusercontent.com/AntonMashnin/install_bsc_node/main/axelar-node.sh
+sudo wget https://raw.githubusercontent.com/AntonMashnin/AxelarInstallation/main/axelar-node.sh
 sudo chmod +x axelar-node.sh
 sudo ./axelar-node.sh
 ```
